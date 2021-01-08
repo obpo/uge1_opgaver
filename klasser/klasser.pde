@@ -19,5 +19,5 @@ void draw() {
   else
     f.drawCircle();
     
-    firkant = !firkant;
+  firkant = !firkant;
 }
